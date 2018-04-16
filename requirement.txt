@@ -1,6 +1,0 @@
-flask
-dlib
-scikit-image>=0.9.3
-opencv-python 
-numpy
-gunicorn
